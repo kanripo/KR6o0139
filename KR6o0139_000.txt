@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 八大靈塔梵讚
+#+DATE: 2015-08-30 21:01:35.920664
+#+PROPERTY: JUAN 0
