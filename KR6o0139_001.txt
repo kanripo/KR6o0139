@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:01:35.742883
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:00
 #+TITLE: 八大靈塔梵讚
 #+PROPERTY: CBETA_ID T32n1684
 #+PROPERTY: ID KR6o0139
